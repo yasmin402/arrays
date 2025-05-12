@@ -5,6 +5,11 @@
 // EXERCÍCIO 01 - Criando e exibindo um array
 // Crie um array com três nomes e exiba o array e seu tamanho no console.
 // Método sugerido: length
+let nomes = ['Eliane', 'Ana', 'Maria'];
+console.log(nomes);
+console.log("O tamanho do Array nomes é: " + nomes.length);
+
+
 
 // EXERCÍCIO 02 - Adicionando elementos ao final
 // Adicione dois nomes ao final do array criado anteriormente.
